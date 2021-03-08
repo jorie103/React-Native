@@ -4,6 +4,8 @@ import { Card } from 'react-native-elements';
 import { CAMPSITES } from '../shared/campsites';
 import { PROMOTIONS } from '../shared/promotions';
 import { PARTNERS } from '../shared/partners';
+import About from'./AboutComponent';
+import Contact from './ContactComponent';
 
 
 function RenderItem({item}) {
